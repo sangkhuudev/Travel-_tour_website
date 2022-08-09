@@ -1,11 +1,10 @@
-css/fonts/*
+
 # Ignore node_modules folder
 node_modules
 
 # Ignore SASS config files
 .sass-cache
 
-css/icon_fonts.css
 css/style.co*
 css/style.prefix.css
 
